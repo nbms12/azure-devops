@@ -42,6 +42,9 @@ Ignore database , disable appllication insights, disable CD deployment , diable 
  ![image](https://github.com/user-attachments/assets/ce77e034-a4d6-491e-8e13-957b5184470d)
  
 
+5. save and run pipeline, we can see series of tasks executing and app is deployed in app service in node.js stack as runner and windows as machine 
+
+   ![image](https://github.com/user-attachments/assets/5bc254c6-dcce-4a8b-8ea4-d09393443254)
 
 
 
@@ -93,12 +96,7 @@ Ignore database , disable appllication insights, disable CD deployment , diable 
 
 
 
-
-
-
-
-
-
+visit serivce url to view the app 
 
 
    
