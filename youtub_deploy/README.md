@@ -23,7 +23,24 @@ steps:
    ![image](https://github.com/user-attachments/assets/89badcbc-cb5c-469d-b498-f0b7619a8792)
 
 
+3. create a pipeline , assign tasks to it
 
+   ![image](https://github.com/user-attachments/assets/7c55f48d-61e1-44ea-b489-3086b3eabe32)
+
+
+
+4.create a web app using azure app service for deployment of our app 
+
+details : 
+ central india region 
+Ignore database , disable appllication insights, disable CD deployment , diable virtual network, Tags 
+
+
+ ![image](https://github.com/user-attachments/assets/3b4e7946-5dcb-4375-8d65-afc58b782728)
+
+
+ ![image](https://github.com/user-attachments/assets/ce77e034-a4d6-491e-8e13-957b5184470d)
+ 
 
 
 
