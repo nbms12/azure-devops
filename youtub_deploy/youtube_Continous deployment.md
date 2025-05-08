@@ -13,3 +13,11 @@ req services :
 
 2.create a new release and upoad artifacts in artifact stage, ( meanning artifacts must be ready if build success ) 
 ![image](https://github.com/user-attachments/assets/5078a3c0-7dd3-45db-939b-ce302b34fdc6)
+
+
+3. enable trigger option for Contrinous Deployment ( CD ) from main branch.
+
+   ![image](https://github.com/user-attachments/assets/2577abe0-56a6-4187-add3-57798446b0c4)
+
+
+4.
