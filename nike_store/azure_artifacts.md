@@ -5,6 +5,7 @@ req: source code of app, azure devops project , auzre service plan
 Note: You must set the app settings as below to disable all file caching:
 
 WEBSITE_DYNAMIC_CACHE=0
+
 WEBSITE_LOCAL_CACHE_OPTION=Never
 
 import into azure repo : https://github.com/nbms12/nike_landing_page
