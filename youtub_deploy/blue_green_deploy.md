@@ -22,6 +22,31 @@ to acheive this
 
    ![image](https://github.com/user-attachments/assets/591d4056-1ba8-48a7-bab4-b81d4b7498a6)
    
-6. configure Green deploy stage ( select slot by name feature MANDATORY )
+6. configure Green deploy stage ( select slot by name newfeature MANDATORY )
 
    ![image](https://github.com/user-attachments/assets/d9619757-a3a0-4048-99df-55eb18d0d8d7)
+
+7. make pre - deployment conditions are SELF- APPROVERS
+
+8. release pipelines are triggered once artifacts published succesfully
+
+   ![image](https://github.com/user-attachments/assets/423521e6-8fc0-49d6-8d9e-52c9352d02dd)
+
+
+9.check logs for prod - server deploy , we can see app is deployed into main server ( live ) 
+![image](https://github.com/user-attachments/assets/b11b7b4e-4a87-4286-9cd7-38af7846b1a8)
+
+10.check logs for  new feature server 
+
+11. Prod -server app ( LIVE )  BLUE - DEPLOY 
+
+    ![image](https://github.com/user-attachments/assets/3841a377-1542-4937-b468-3ec3c970bb0c)
+
+
+12. New feature - Green deploy , as we can see and verify that sidebar Icons  color is changed to Blue instead of Red  ( as NEW Feature )
+
+![image](https://github.com/user-attachments/assets/5e5412d7-6df2-497c-8135-2470673d2dfe)
+
+
+
+Once its approved we can swap from green to Blue deployment , so that we can new feature in LIVE .
