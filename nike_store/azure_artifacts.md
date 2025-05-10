@@ -78,4 +78,5 @@ steps:
    I have changed footer section , hence we can see this update in our new package 
 
 
-   ![image](https://github.com/user-attachments/assets/664ecc87-a52e-4d6d-8c7f-bfd6decf8af8)
+  ![image](https://github.com/user-attachments/assets/d6c5dcad-9fb4-4942-9068-6c4579abe51b)
+
