@@ -68,3 +68,14 @@ steps:
  view app on 
 
  ![image](https://github.com/user-attachments/assets/75f8c2d4-94e7-4fae-b921-efd3cc55dd39)
+ ![image](https://github.com/user-attachments/assets/60890794-e635-4a78-97e7-a49c263a195c)
+
+
+10 . once we update any changes in application , the artifact version remains same version hence release is not trigered , to solve this 
+     need to update package version ex : 1.2.0 to 1.3.0 we can see two artifacts stored inside azure artifact.
+
+
+   I have changed footer section , hence we can see this update in our new package 
+
+
+   ![image](https://github.com/user-attachments/assets/664ecc87-a52e-4d6d-8c7f-bfd6decf8af8)
